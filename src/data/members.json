@@ -2,6 +2,31 @@
   {
     "name": "Exanyr-Firemaw",
     "class": "Warlock",
-    ""
+    "type": "Caster"
+  },
+  {
+    "name": "Dreamworks-Firemaw",
+    "class": "Druid",
+    "type": "Healer"
+  },
+  {
+    "name": "Tunalip-Firemaw",
+    "class": "Paladin",
+    "type": "Tank"
+  },
+  {
+    "name": "Luxena-Firemaw",
+    "class": "Mage",
+    "type": "Caster"
+  },
+  {
+    "name": "Criticality-Firemaw",
+    "class": "Warrior",
+    "type": "Melee"
+  },
+  {
+    "name": "Shixo-Firemaw",
+    "class": "Shaman",
+    "type": "Caster"
   }
 ]
